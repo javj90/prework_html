@@ -1,0 +1,264 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding: 15px;
+    overflow: hidden;
+}
+nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+}
+.top-left {
+    float:left;
+}
+.top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+}
+.top-links li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.search_top{
+    width: calc(100% - 10px);
+}
+.header_section_1 {
+    background-color: #1d4e69;
+    background-image: url(images/city-scape.svg)
+}
+.top_menu {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.top_menu input {
+    font-family: "Fira Mono", "Andale Mono", "Consolas", monospace;
+    font-size: 14px;
+    letter-spacing: 0px;
+    border: none;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 0;
+    width: calc(100% - 10px);
+    flex: 1 1 auto;
+    width: 50%;
+    background-color: rgb(31, 82, 111);
+}
+.logo {
+    margin-right: 1rem;
+}
+.logo img {
+    height: 50px;
+    width: auto;
+}
+.bear_logo{
+    display:flex;
+    padding-left: 10px;
+}
+.bear_logo img {
+    height: 50px;
+    width: auto;
+}
+.bear_logo p{
+    margin: auto;
+}
+.div_1 {
+    margin: 0 auto; 
+    width: 50%;
+    box-sizing: border-box;
+}
+.div_2 {
+    width: 50%;
+    padding: 4rem; 
+    box-sizing: border-box;
+}
+.header_section_1 h1{
+    color:white;
+    font-weight: 200;
+    margin: .67em 0;
+    font-family: "Open Sans", OpenSans, sans-serif;
+    font-size: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    line-height: 1.5;
+    
+}
+.header_section_1 p{
+    color:white;
+    font-size: 1.25rem;
+    font-weight: 200;
+    font-family: "Open Sans", OpenSans, sans-serif;
+    line-height: 1.5;
+
+}
+.yellow_button{
+    background-color:rgb(240,146,51);
+    color:white;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    padding: 7px 18px 8px 18px;
+    text-decoration: none;
+    line-height: 1.5;
+    font-family: "Open Sans", OpenSans, sans-serif;
+}
+.link {
+    color:white;
+    text-decoration: none;
+    line-height: 1.5;
+    font-family: "Open Sans", OpenSans, sans-serif;
+}
+.header_section_3 {
+    background-size: cover; 
+    background-image: url(images/forklift.svg);
+}
+.div_3 {
+    margin-right: auto; 
+    margin-left: auto;
+    max-width: 64rem;
+    box-sizing: border-box;
+}
+.div_4 {
+    width: 50%;
+    padding: 4rem; 
+    box-sizing: border-box;
+}    
+.header_section_3 h2{
+    color:white;
+    font-weight: 200;
+    margin: .67em 0;
+    font-family: "Open Sans", OpenSans, sans-serif;
+    font-size: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    line-height: 1.5;
+    
+}
+.header_section_3 p{
+    color:white;
+    font-size: 1.25rem;
+    font-weight: 200;
+    font-family: "Open Sans", OpenSans, sans-serif;
+    line-height: 1.5;
+
+}
+.header_section_3 a{
+    background-color:rgb(49,68,88);
+    color:white;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    padding: 7px 18px 8px 18px;
+    text-decoration: none;
+    line-height: 1.5;
+    font-family: "Open Sans", OpenSans, sans-serif;
+}
+#section_2 {
+    background: rgb(39, 53, 71) ;
+
+}
+.div_5 {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 4rem;
+    max-width: 64rem;
+    display: flex;
+    background: rgb(39, 53, 71);  
+}
+.div_6 {
+    width: 60%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    box-sizing: border-box;
+    text-align: center;
+}
+.div_7 {
+    width: 40%;
+    padding-left: 4rem;
+    box-sizing: border-box;  
+}
+.div_7 h2{
+    color: white;
+    font-weight: 200;
+    line-height: 1.5;
+    font-family: "Open Sans", OpenSans, sans-serif;
+    
+}
+.div_7 ul{
+    color: white;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: "Open Sans", OpenSans, sans-serif;
+}
+.div_7 .button_red{
+    background-color: rgb(203, 56, 55);
+    text-align: center;
+    width: 90%;
+    outline: none;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 7px 18px 8px 18px;
+    font-size: 18px;
+    font-family: "Open Sans", OpenSans, sans-serif;
+    border-radius: 20px;
+    line-height: 1.5;
+
+}
+.div_7 p{
+    color: white;
+    font-family: "Open Sans", OpenSans, sans-serif;
+}
+.div_7 a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+.div_last_link {
+    padding-bottom: 4rem;
+}
+.div_3_columns {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 64rem;
+    display: flex;
+}
+.div_8 h2{
+    font-size: 2.25rem;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: .25rem;
+    font-weight: 200;
+    box-sizing: border-box;
+    font-family: "Open Sans", OpenSans, sans-serif;
+    line-height: 1.15;
+}
+.div_8 p{
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 2rem;
+    box-sizing: border-box;
+    font-family: "Open Sans", OpenSans, sans-serif;
+    line-height: 1.15;
+
+}
+.div_9 {
+    width: 33.33333%;
+    text-align: center;
+    font-family: "Open Sans", OpenSans, sans-serif;
+    font-weight: 400;
+    box-sizing: border-box;
+    padding: .5rem;
+    float: left;
+    font-size: 1rem;
+}
+.div_9 p {
+    line-height: 1.15;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.div_9 a {
+    color: #cb3837;
+    text-decoration: none;
+    font-weight: 600;
+}
